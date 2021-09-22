@@ -1,0 +1,326 @@
+{
+  "tireWidth": [
+    {
+      "id": 0,
+      "width": "195"
+    },
+    {
+      "id": 1,
+      "width": "205"
+    },
+    {
+      "id": 2,
+      "width": "215"
+    },
+    {
+      "id": 3,
+      "width": "225"
+    },
+    {
+      "id": 4,
+      "width": "235"
+    }
+  ],
+  "tireProfile": [
+    {
+      "id": 0,
+      "width": "30"
+    },
+    {
+      "id": 1,
+      "width": "35"
+    },
+    {
+      "id": 2,
+      "width": "40"
+    },
+    {
+      "id": 3,
+      "width": "45"
+    },
+    {
+      "id": 4,
+      "width": "50"
+    }
+  ],
+  "rimDiameter": [
+    {
+      "id": 0,
+      "width": "14"
+    },
+    {
+      "id": 1,
+      "width": "15"
+    },
+    {
+      "id": 2,
+      "width": "16"
+    },
+    {
+      "id": 3,
+      "width": "17"
+    },
+    {
+      "id": 4,
+      "width": "18"
+    },
+    {
+      "id": 5,
+      "width": "19"
+    },
+    {
+      "id": 6,
+      "width": "20"
+    },
+    {
+      "id": 7,
+      "width": "21"
+    }
+  ],
+  "tireWeight": [
+    {
+      "id": 0,
+      "value": "50",
+      "description": "do 190 kg"
+    },
+    {
+      "id": 1,
+      "value": "51",
+      "description": "do 195 kg"
+    },
+    {
+      "id": 2,
+      "value": "52",
+      "description": "do 200 kg"
+    },
+    {
+      "id": 3,
+      "value": "53",
+      "description": "do 206 kg"
+    },
+    {
+      "id": 4,
+      "value": "54",
+      "description": "do 212 kg"
+    },
+    {
+      "id": 5,
+      "value": "55",
+      "description": "do 218 kg"
+    },
+    {
+      "id": 6,
+      "value": "56",
+      "description": "do 224 kg"
+    }
+  ],
+  "tireSpeed": [
+    {
+      "id": 0,
+      "value": "R",
+      "description": "170 km/h"
+    },
+    {
+      "id": 1,
+      "value": "S",
+      "description": "180 km/h"
+    },
+    {
+      "id": 2,
+      "value": "T",
+      "description": "190 km/h"
+    },
+    {
+      "id": 3,
+      "value": "H",
+      "description": "210 km/h"
+    },
+    {
+      "id": 4,
+      "value": "V",
+      "description": "240 km/h"
+    },
+    {
+      "id": 5,
+      "value": "W",
+      "description": "270 km/h"
+    },
+    {
+      "id": 6,
+      "value": "Y",
+      "description": "300 km/h"
+    }
+  ],
+  "tireClass": [
+    {
+      "id": "economic",
+      "value": "Ekonomiczna"
+    },
+    {
+      "id": "medium",
+      "value": "Średnia"
+    },
+    {
+      "id": 2,
+      "value": "Premium"
+    }
+  ],
+  "producerList": [
+    {
+      "id": "apollo",
+      "value": "Apollo",
+      "class": "economic"
+    },
+    {
+      "id": "barum",
+      "value": "Barum",
+      "class": "economic"
+    },
+    {
+      "id": "dayton",
+      "value": "Dayton",
+      "class": "economic"
+    },
+    {
+      "id": "debica",
+      "value": "Dębica",
+      "class": "economic"
+    },
+    {
+      "id": "kingstar",
+      "value": "Kingstar",
+      "class": "economic"
+    },
+    {
+      "id": "kormoran",
+      "value": "Kormoran",
+      "class": "economic"
+    },
+    {
+      "id": "mabor",
+      "value": "Mabor",
+      "class": "economic"
+    },
+    {
+      "id": "bfgoodrich",
+      "value": "BFGoodrich",
+      "class": "standard"
+    },
+    {
+      "id": "dmack",
+      "value": "Dmack",
+      "class": "medium"
+    },
+    {
+      "id": "firestone",
+      "value": "Firestone",
+      "class": "medium"
+    },
+    {
+      "id": "fulda",
+      "value": "Fulda",
+      "class": "medium"
+    },
+    {
+      "id": "hankook",
+      "value": "Hankook",
+      "class": "medium"
+    },
+    {
+      "id": "kumho",
+      "value": "Kumho",
+      "class": "medium"
+    },
+    {
+      "id": "continental",
+      "value": "Bridgestone",
+      "class": "premium"
+    },
+    {
+      "id": "continental",
+      "value": "Continental",
+      "class": "premium"
+    },
+    {
+      "id": "dunlop",
+      "value": "Dunlop",
+      "class": "premium"
+    },
+    {
+      "id": "goodyear",
+      "value": "Goodyear",
+      "class": "premium"
+    },
+    {
+      "id": "michelin",
+      "value": "Michelin",
+      "class": "premium"
+    },
+    {
+      "id": "nokian",
+      "value": "Nokian",
+      "class": "premium"
+    },
+    {
+      "id": "pirelli",
+      "value": "Pirelli",
+      "class": "premium"
+    },
+    {
+      "id": "vredestein",
+      "value": "Vredestein",
+      "class": "premium"
+    }
+  ],
+  "tiresSizes": [
+    {
+      "id": 0,
+      "width": "205",
+      "height": "35",
+      "diameter": "16",
+      "selected": true
+    },
+    {
+      "id": 1,
+      "width": "215",
+      "height": "35",
+      "diameter": "16",
+      "selected": false
+    },
+    {
+      "id": 2,
+      "width": "225",
+      "height": "35",
+      "diameter": "16",
+      "selected": false
+    },
+    {
+      "id": 3,
+      "width": "235",
+      "height": "35",
+      "diameter": "16",
+      "selected": false
+    },
+    {
+      "id": 4,
+      "width": "235",
+      "height": "35",
+      "diameter": "17",
+      "selected": false
+    },
+    {
+      "id": 5,
+      "width": "235",
+      "height": "45",
+      "diameter": "17",
+      "selected": false
+    },
+    {
+      "id": 6,
+      "width": "245",
+      "height": "45",
+      "diameter": "17",
+      "selected": false
+    }
+  ]
+}
